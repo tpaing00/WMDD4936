@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon app.js",
     "watch": "webpack --watch",
-    "build": "node app.js"
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
