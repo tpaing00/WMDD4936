@@ -8023,7 +8023,7 @@ __webpack_require__.r(__webpack_exports__);
 // );
 
 react_dom__WEBPACK_IMPORTED_MODULE_2__.render( /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement(_App__WEBPACK_IMPORTED_MODULE_3__["default"], {
-  title: "Hello React App with props!",
+  title: "Hello React App with props (Netlify Version)!",
   subtitle: "My first React app is here at Netlify!!!"
 }), document.getElementById('react-container'));
 })();

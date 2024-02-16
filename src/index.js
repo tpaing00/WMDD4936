@@ -12,6 +12,6 @@ import App from './App'
 // );
 
 ReactDOM.render(
-    <App title="Hello React App with props!" subtitle="My first React app is here at Netlify!!!" />,
+    <App title="Hello React App with props (Netlify Version)!" subtitle="My first React app is here at Netlify!!!" />,
     document.getElementById('react-container')
 );
