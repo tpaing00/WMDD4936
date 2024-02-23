@@ -1,11 +1,11 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+import Scanner from './Scanner';
 
-const App = props => {
+function App({ }) {
     return (
-        <>
-            <h1>Hello Lumiere</h1>
-        </>
+      <Scanner />
     );
-}
+  }
+
 
 export default App;
